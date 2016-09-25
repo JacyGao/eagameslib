@@ -1,5 +1,5 @@
 # eagameslib
-An EA Games Library where you can add new game collection and view collected games.
+A demo app of EA Games Library where you can add new game collection and view collected games.
 
 This repo contains the fontend code. You need to also set up the backend server in order to have the application fully functional.
 
