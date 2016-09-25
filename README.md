@@ -3,7 +3,7 @@ A demo app of EA Games Library where you can add new game collection and view co
 
 This repo contains the fontend code. You need to also set up the backend server in order to have the application fully functional.
 
-To set up the backend server please visit
+To set up the backend server please visit https://github.com/JacyGao/eagameslib-api
 
 <b>One-time setup</b>
 
