@@ -11,8 +11,8 @@ To set up the backend server please visit https://github.com/JacyGao/eagameslib-
 
 - After npm is installed, run 
 
-    npm install
+        npm install
 
 - After node_modules are installed, kick off the testing server by running 
 
-    npm start
+        npm start
