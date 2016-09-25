@@ -1,0 +1,46 @@
+body {
+  background-color: white;
+  font: 400 1.125em/1.38 'Open Sans'; }
+
+.container {
+  width: 100%;
+  background-color: #fba73b; }
+
+.app_header {
+  min-height: 55px;
+  font-style: italic;
+  font-size: 2em;
+  font-weight: 300;
+  text-align: center;
+  color: black;
+  padding-top: 50px; }
+
+.app_input {
+  text-align: center;
+  margin-top: 20px;
+  height: 60px;
+  padding: 0 10px;
+  font-size: 1.667em; }
+
+._input {
+  height: 30px;
+  width: 180px;
+  font-size: 20px; }
+
+._button {
+  height: 37px;
+  width: 37px;
+  margin-left: 10px;
+  font-size: 20px; }
+
+.app_title_list {
+  text-align: center;
+  color: black;
+  padding-bottom: 50px; }
+
+.app_error {
+  text-align: center;
+  color: red;
+  font-size: 15px; }
+
+/*# sourceMappingURL=app.css.map */
