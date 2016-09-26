@@ -29,7 +29,7 @@ body {
 
 ._button {
   height: 37px;
-  width: 37px;
+  width: 50px;
   margin-left: 10px;
   font-size: 20px; }
 
@@ -42,5 +42,8 @@ body {
   text-align: center;
   color: red;
   font-size: 15px; }
+
+.app_item {
+  border-bottom: 1px solid lightgrey; }
 
 /*# sourceMappingURL=app.css.map */

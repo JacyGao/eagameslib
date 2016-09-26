@@ -1,16 +1,8 @@
 import {
 	ADD_TITLE,
-	ENTER_TITLE,
 	GET_TITLE,
 	LIST_TITLE
 } from '../constants/ActionTypes'
-
-export function enterTitle(payload) {
-	return {
-		type: ENTER_TITLE,
-		payload
-	}
-}
 
 export function addTitle(payload) {
 	return {
@@ -20,8 +12,15 @@ export function addTitle(payload) {
 }
 
 export function listTitles(payload) {
-		return {
+	return {
 		type: LIST_TITLE,
 		payload
+	}
+}
+
+export function getTitle(payload) {
+	return {
+		type: GET_TITLE,
+		payload	
 	}
 }
