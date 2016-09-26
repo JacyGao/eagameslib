@@ -1,12 +1,9 @@
 # eagameslib
 A demo app of EA Games Library where you can add new game collection and view collected games.
 
-The Application is written in ReactJs with Redux Framework
+The Application is written in ReactJs (https://facebook.github.io/react/) with Redux Framework (http://redux.js.org/)
 
-        https://facebook.github.io/react/
-        http://redux.js.org/
-
-This repo contains the fontend code. You need to also set up the backend server in order to have the application fully functional.
+This repo contains only the fontend code for this app. You must also set up the backend server in order to have the application fully functional.
 
 To set up the backend server please visit https://github.com/JacyGao/eagameslib-api
 
